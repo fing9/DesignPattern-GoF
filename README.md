@@ -4,7 +4,7 @@
 
 ***
 
-# 순서
+# Index
 #1 반복자(Iterator)
 
 #2 전략(Strategy)
@@ -12,4 +12,6 @@
 #3 템플릿(Template)
 
 #4 어뎁터(Adapter)
+
+#5 브릿지(Bridge)
 
