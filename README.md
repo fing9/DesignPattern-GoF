@@ -15,3 +15,7 @@
 
 #5 브릿지(Bridge)
 
+#6 싱글톤(Singleton)
+
+#7 플라이웨이트(Flyweight)
+
