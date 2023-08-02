@@ -19,3 +19,5 @@
 
 #7 플라이웨이트(Flyweight)
 
+#8 컴포짓(Composite)
+
