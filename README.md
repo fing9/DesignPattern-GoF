@@ -21,3 +21,5 @@
 
 #8 컴포짓(Composite)
 
+#9 팩토리 메서드(Factory Method)
+
