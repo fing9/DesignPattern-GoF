@@ -23,3 +23,5 @@
 
 #9 팩토리 메서드(Factory Method)
 
+#10 옵저버(Observer)
+
