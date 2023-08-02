@@ -33,3 +33,5 @@
 
 #14 데코레이터(Decorator)
 
+#15 책임의 연결(Chain of responsibility)
+
