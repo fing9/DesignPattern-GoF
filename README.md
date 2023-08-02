@@ -25,3 +25,5 @@
 
 #10 옵저버(Observer)
 
+#11 미디에이터(Mediator)
+
