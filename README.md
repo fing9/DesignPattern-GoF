@@ -39,3 +39,15 @@
 
 #17 퍼사드(Facade)
 
+#18 빌더(Builder)
+
+#19	커멘드(Command)
+
+#20 추상팩토리(Abstract Factory)
+
+#21 상태(State)
+
+#22 인터프리터(Interpreter)
+
+#23 방문자(Visitor)
+
