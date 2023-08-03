@@ -2,7 +2,8 @@
 
 ## GoF(Gang of Four)가 정리한 23가지의 디자인 패턴에 대한 실습 코드
 
-***
+'GIS DEVELOPER'님의 "GoF의 Design Pattern" 강의를 보며 작성한 실습 코드입니다.
+
 
 # Index
 #1 반복자(Iterator)
@@ -51,3 +52,7 @@
 
 #23 방문자(Visitor)
 
+
+# References
+1. https://www.youtube.com/watch?v=An7kqZ5D7j8&list=PLe6NQuuFBu7FhPfxkjDd2cWnTy2y_w_jZ
+2. https://4z7l.github.io/2020/12/25/design_pattern_GoF.html#gof-디자인-패턴
