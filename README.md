@@ -35,3 +35,5 @@
 
 #15 책임의 연결(Chain of responsibility)
 
+#16 프로토타입(Prototype)
+
